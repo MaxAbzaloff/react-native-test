@@ -6,4 +6,5 @@
  */
 
 rootProject.name = 'ReactNativeProject'
+DEFAULT_SETTINGS_FILE='./node_modules/expo/android/build.gradle'
 include('plugin')
