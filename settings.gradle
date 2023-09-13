@@ -7,4 +7,12 @@
 
 rootProject.name = 'ReactNativeProject'
 //DEFAULT_SETTINGS_FILE='./node_modules/expo/android/build.gradle'
+
+println 'start of settings'
+
+println settings.gradlePropertiesProp
+
+println 'end of settings'
+
 include('plugin')
+
