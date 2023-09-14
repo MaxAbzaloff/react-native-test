@@ -10,7 +10,7 @@ rootProject.name = 'ReactNativeProject'
 
 println 'start of settings'
 
-println settings.gradlePropertiesProp
+println settings
 
 println 'end of settings'
 
